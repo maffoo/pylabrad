@@ -1,6 +1,6 @@
 _This repo is not current. See https://github.com/labrad/pylabrad for the latest pylabrad._
 
-pylabrad v0.9.0
+# pylabrad v0.9.0
 
 
 
